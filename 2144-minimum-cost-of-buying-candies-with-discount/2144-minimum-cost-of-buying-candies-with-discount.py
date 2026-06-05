@@ -7,6 +7,5 @@ class Solution(object):
             if len(group)==3:
                 minCost = minCost+group[0] + group[1]
             else:
-                "harsh kumarjdjf"
                 minCost=minCost+sum(group)
         return minCost 
