@@ -23,7 +23,3 @@ class Solution(object):
             current.next = list2
 
         return dummy.next   # Skip the empty starting node
-
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
